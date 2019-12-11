@@ -1,0 +1,5 @@
+---
+- name: PagerDuty Terraform Provider
+  repository: terraform-providers/terraform-provider-pagerduty
+- name: Sumologic Python SDK
+  repository: SumoLogic/sumologic-python-sdk
